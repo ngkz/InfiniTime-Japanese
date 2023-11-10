@@ -47,10 +47,10 @@ namespace Pinetime {
           {Symbols::heartBeat, Apps::HeartRate},
           {Symbols::music, Apps::Music},
 
-          {Symbols::paintbrush, Apps::Paint},
-          {Symbols::paddle, Apps::Paddle},
-          {"2", Apps::Twos},
-          {Symbols::drum, Apps::Metronome},
+          // {Symbols::paintbrush, Apps::Paint},
+          // {Symbols::paddle, Apps::Paddle},
+          // {"2", Apps::Twos},
+          // {Symbols::drum, Apps::Metronome},
           {Symbols::map, Apps::Navigation},
           {Symbols::none, Apps::None},
 
