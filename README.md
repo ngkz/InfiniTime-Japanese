@@ -99,6 +99,7 @@ It integrates the following projects:
 - UI: **[LittleVGL/LVGL](https://lvgl.io/)** under the MIT license
 - BLE stack: **[NimBLE](https://github.com/apache/mynewt-nimble)** under the Apache 2.0 license
 - Font: **[Jetbrains Mono](https://www.jetbrains.com/fr-fr/lp/mono/)** under the Apache 2.0 license
+- Japanese Font :  **[Noto](https://github.com/notofonts/notofonts.github.io)** under the Apache 2.0 license
 
 ## Credits
 
