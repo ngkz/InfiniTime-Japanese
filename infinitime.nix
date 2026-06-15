@@ -13,7 +13,7 @@ stdenv.mkDerivation {
     gcc-arm-embedded-10
     nrf5-sdk
     (python3.withPackages
-      (p: with p; [ cbor click intelhex cryptography pillow pexpect ]))
+      (p: with p; [ cbor click intelhex cryptography pillow pexpect bluepy ]))
     adafruit-nrfutil
     nodePackages.lv_font_conv
   ];
